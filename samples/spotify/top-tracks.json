@@ -1,0 +1,570 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2UJwKSBUz6rtW4QLK74kQu",
+      "id" : "2UJwKSBUz6rtW4QLK74kQu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/fd3cac76a8f1f3cab516f06873eeec16977efdf0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/d4555b9bd991c8759ae9a5d8b5be2e836c2cb8d7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/bc4707dd23d5c0c0c5d27d2a381fe7d3191e5e7c",
+        "width" : 64
+      } ],
+      "name" : "BEYONCÉ [Platinum Edition]",
+      "type" : "album",
+      "uri" : "spotify:album:2UJwKSBUz6rtW4QLK74kQu"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6vWDO969PvNqNYHIOW5v0m",
+      "id" : "6vWDO969PvNqNYHIOW5v0m",
+      "name" : "Beyoncé",
+      "type" : "artist",
+      "uri" : "spotify:artist:6vWDO969PvNqNYHIOW5v0m"
+    } ],
+    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID" ],
+    "disc_number" : 2,
+    "duration_ms" : 213506,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM11408532"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/02M6vucOvmRfMxTXDUwRXu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/02M6vucOvmRfMxTXDUwRXu",
+    "id" : "02M6vucOvmRfMxTXDUwRXu",
+    "name" : "7/11",
+    "popularity" : 81,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c17eaf47f9624029dadcd7672b7896c84923e28c",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:02M6vucOvmRfMxTXDUwRXu"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2UJwKSBUz6rtW4QLK74kQu",
+      "id" : "2UJwKSBUz6rtW4QLK74kQu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/fd3cac76a8f1f3cab516f06873eeec16977efdf0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/d4555b9bd991c8759ae9a5d8b5be2e836c2cb8d7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/bc4707dd23d5c0c0c5d27d2a381fe7d3191e5e7c",
+        "width" : 64
+      } ],
+      "name" : "BEYONCÉ [Platinum Edition]",
+      "type" : "album",
+      "uri" : "spotify:album:2UJwKSBUz6rtW4QLK74kQu"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6vWDO969PvNqNYHIOW5v0m",
+      "id" : "6vWDO969PvNqNYHIOW5v0m",
+      "name" : "Beyoncé",
+      "type" : "artist",
+      "uri" : "spotify:artist:6vWDO969PvNqNYHIOW5v0m"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    } ],
+    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID" ],
+    "disc_number" : 1,
+    "duration_ms" : 323480,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USSM11307800"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6jG2YzhxptolDzLHTGLt7S"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6jG2YzhxptolDzLHTGLt7S",
+    "id" : "6jG2YzhxptolDzLHTGLt7S",
+    "name" : "Drunk in Love",
+    "popularity" : 79,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7052c45ae9298c38fdbd1b45bec7fc5f554fafa0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:6jG2YzhxptolDzLHTGLt7S"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "available_markets" : [ "AR", "AU", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HU", "IS", "IE", "IT", "LV", "LT", "MT", "MX", "NZ", "NI", "NO", "PA", "PY", "PE", "PL", "PT", "SK", "ES", "SE", "CH", "TR", "UY", "US", "AD", "LI", "MC" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
+      },
+      "href" : "https://api.spotify.com/v1/albums/39P7VD7qlg3Z0ltq60eHp7",
+      "id" : "39P7VD7qlg3Z0ltq60eHp7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/12092a0558433cbaccd51301daeb6b31d9f70f9e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ca0a7929a933a0bcba17f65231581ad0e2bf1dca",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/9065d2fb00a000d5cddcc49dacbb1ff328b93d5c",
+        "width" : 64
+      } ],
+      "name" : "I AM...SASHA FIERCE",
+      "type" : "album",
+      "uri" : "spotify:album:39P7VD7qlg3Z0ltq60eHp7"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6vWDO969PvNqNYHIOW5v0m",
+      "id" : "6vWDO969PvNqNYHIOW5v0m",
+      "name" : "Beyoncé",
+      "type" : "artist",
+      "uri" : "spotify:artist:6vWDO969PvNqNYHIOW5v0m"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HU", "IS", "IE", "IT", "LV", "LT", "MT", "MX", "NZ", "NI", "NO", "PA", "PY", "PE", "PL", "PT", "SK", "ES", "SE", "CH", "TR", "UY", "US", "AD", "LI", "MC" ],
+    "disc_number" : 1,
+    "duration_ms" : 261640,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10804556"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4JehYebiI9JE8sR8MisGVb",
+    "id" : "4JehYebiI9JE8sR8MisGVb",
+    "name" : "Halo",
+    "popularity" : 79,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3c97985f3736fab6d4abcd2067f346a9b30955fa",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:4JehYebiI9JE8sR8MisGVb"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "available_markets" : [ "AR", "AU", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "TW", "TR", "UY", "US", "GB", "AD", "MC", "ID" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6oxVabMIqCMJRYN1GqR3Vf",
+      "id" : "6oxVabMIqCMJRYN1GqR3Vf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/dc6f04be7adf3ed5355ef230ea4fa06ec80ccc8b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/18f045366239093368d7ef713cf6267d5b7726a1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/31e5c0f0635cdfe6d5d8cc17a72a71a2f587e1f6",
+        "width" : 64
+      } ],
+      "name" : "Dangerously In Love",
+      "type" : "album",
+      "uri" : "spotify:album:6oxVabMIqCMJRYN1GqR3Vf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6vWDO969PvNqNYHIOW5v0m",
+      "id" : "6vWDO969PvNqNYHIOW5v0m",
+      "name" : "Beyoncé",
+      "type" : "artist",
+      "uri" : "spotify:artist:6vWDO969PvNqNYHIOW5v0m"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    } ],
+    "available_markets" : [ "AR", "AU", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "TW", "TR", "UY", "US", "GB", "AD", "MC", "ID" ],
+    "disc_number" : 1,
+    "duration_ms" : 236133,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10305425"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5IVuqXILoxVWvWEPm82Jxr",
+    "id" : "5IVuqXILoxVWvWEPm82Jxr",
+    "name" : "Crazy In Love",
+    "popularity" : 78,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ce8ace0ec425840416be78db07cf50dd331eed4f",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5IVuqXILoxVWvWEPm82Jxr"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1gIC63gC3B7o7FfpPACZQJ",
+      "id" : "1gIC63gC3B7o7FfpPACZQJ",
+      "images" : [ {
+        "height" : 636,
+        "url" : "https://i.scdn.co/image/c0e82a0ac0d70ee54089f6d4cb36749c2d870a8d",
+        "width" : 640
+      }, {
+        "height" : 298,
+        "url" : "https://i.scdn.co/image/e469cf60bcd774ecbd3e59f4b30aa1761498c6c6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/12a46eb5d09c930e8d8fafc5e224f09e7d8d4809",
+        "width" : 64
+      } ],
+      "name" : "4",
+      "type" : "album",
+      "uri" : "spotify:album:1gIC63gC3B7o7FfpPACZQJ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6vWDO969PvNqNYHIOW5v0m",
+      "id" : "6vWDO969PvNqNYHIOW5v0m",
+      "name" : "Beyoncé",
+      "type" : "artist",
+      "uri" : "spotify:artist:6vWDO969PvNqNYHIOW5v0m"
+    } ],
+    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID" ],
+    "disc_number" : 1,
+    "duration_ms" : 236093,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM11102447"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1uXbwHHfgsXcUKfSZw5ZJ0",
+    "id" : "1uXbwHHfgsXcUKfSZw5ZJ0",
+    "name" : "Run the World (Girls)",
+    "popularity" : 78,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c5e90d8d93467fc4aeda29c2cbefaa494081232a",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:1uXbwHHfgsXcUKfSZw5ZJ0"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1gIC63gC3B7o7FfpPACZQJ",
+      "id" : "1gIC63gC3B7o7FfpPACZQJ",
+      "images" : [ {
+        "height" : 636,
+        "url" : "https://i.scdn.co/image/c0e82a0ac0d70ee54089f6d4cb36749c2d870a8d",
+        "width" : 640
+      }, {
+        "height" : 298,
+        "url" : "https://i.scdn.co/image/e469cf60bcd774ecbd3e59f4b30aa1761498c6c6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/12a46eb5d09c930e8d8fafc5e224f09e7d8d4809",
+        "width" : 64
+      } ],
+      "name" : "4",
+      "type" : "album",
+      "uri" : "spotify:album:1gIC63gC3B7o7FfpPACZQJ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6vWDO969PvNqNYHIOW5v0m",
+      "id" : "6vWDO969PvNqNYHIOW5v0m",
+      "name" : "Beyoncé",
+      "type" : "artist",
+      "uri" : "spotify:artist:6vWDO969PvNqNYHIOW5v0m"
+    } ],
+    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID" ],
+    "disc_number" : 1,
+    "duration_ms" : 267413,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM11102908"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1z6WtY7X4HQJvzxC4UgkSf",
+    "id" : "1z6WtY7X4HQJvzxC4UgkSf",
+    "name" : "Love On Top",
+    "popularity" : 77,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9a7675cc7f71c524af1397cf1675b61a8fbc74ed",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1z6WtY7X4HQJvzxC4UgkSf"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2UJwKSBUz6rtW4QLK74kQu",
+      "id" : "2UJwKSBUz6rtW4QLK74kQu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/fd3cac76a8f1f3cab516f06873eeec16977efdf0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/d4555b9bd991c8759ae9a5d8b5be2e836c2cb8d7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/bc4707dd23d5c0c0c5d27d2a381fe7d3191e5e7c",
+        "width" : 64
+      } ],
+      "name" : "BEYONCÉ [Platinum Edition]",
+      "type" : "album",
+      "uri" : "spotify:album:2UJwKSBUz6rtW4QLK74kQu"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6vWDO969PvNqNYHIOW5v0m",
+      "id" : "6vWDO969PvNqNYHIOW5v0m",
+      "name" : "Beyoncé",
+      "type" : "artist",
+      "uri" : "spotify:artist:6vWDO969PvNqNYHIOW5v0m"
+    } ],
+    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID" ],
+    "disc_number" : 1,
+    "duration_ms" : 319466,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USSM11307803"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5hgnY0mVcVetszbb85qeDg"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5hgnY0mVcVetszbb85qeDg",
+    "id" : "5hgnY0mVcVetszbb85qeDg",
+    "name" : "Partition",
+    "popularity" : 75,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8ecd5010e5a46f1c84f42bcfed50505395825d7a",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:5hgnY0mVcVetszbb85qeDg"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2UJwKSBUz6rtW4QLK74kQu",
+      "id" : "2UJwKSBUz6rtW4QLK74kQu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/fd3cac76a8f1f3cab516f06873eeec16977efdf0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/d4555b9bd991c8759ae9a5d8b5be2e836c2cb8d7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/bc4707dd23d5c0c0c5d27d2a381fe7d3191e5e7c",
+        "width" : 64
+      } ],
+      "name" : "BEYONCÉ [Platinum Edition]",
+      "type" : "album",
+      "uri" : "spotify:album:2UJwKSBUz6rtW4QLK74kQu"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6vWDO969PvNqNYHIOW5v0m",
+      "id" : "6vWDO969PvNqNYHIOW5v0m",
+      "name" : "Beyoncé",
+      "type" : "artist",
+      "uri" : "spotify:artist:6vWDO969PvNqNYHIOW5v0m"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0hCNtLu0JehylgoiP8L4Gh",
+      "id" : "0hCNtLu0JehylgoiP8L4Gh",
+      "name" : "Nicki Minaj",
+      "type" : "artist",
+      "uri" : "spotify:artist:0hCNtLu0JehylgoiP8L4Gh"
+    } ],
+    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID" ],
+    "disc_number" : 2,
+    "duration_ms" : 234413,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USSM11406084"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0zVMzJ37VQNFUNvdxxat2E"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0zVMzJ37VQNFUNvdxxat2E",
+    "id" : "0zVMzJ37VQNFUNvdxxat2E",
+    "name" : "Flawless Remix",
+    "popularity" : 75,
+    "preview_url" : "https://p.scdn.co/mp3-preview/89a75c3b0d197bc20f28ae18f586971638a4df6d",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:0zVMzJ37VQNFUNvdxxat2E"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2UJwKSBUz6rtW4QLK74kQu",
+      "id" : "2UJwKSBUz6rtW4QLK74kQu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/fd3cac76a8f1f3cab516f06873eeec16977efdf0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/d4555b9bd991c8759ae9a5d8b5be2e836c2cb8d7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/bc4707dd23d5c0c0c5d27d2a381fe7d3191e5e7c",
+        "width" : 64
+      } ],
+      "name" : "BEYONCÉ [Platinum Edition]",
+      "type" : "album",
+      "uri" : "spotify:album:2UJwKSBUz6rtW4QLK74kQu"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6vWDO969PvNqNYHIOW5v0m",
+      "id" : "6vWDO969PvNqNYHIOW5v0m",
+      "name" : "Beyoncé",
+      "type" : "artist",
+      "uri" : "spotify:artist:6vWDO969PvNqNYHIOW5v0m"
+    } ],
+    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID" ],
+    "disc_number" : 1,
+    "duration_ms" : 215946,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM11307807"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/40xhyfAPDoMtv494MfPevP"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/40xhyfAPDoMtv494MfPevP",
+    "id" : "40xhyfAPDoMtv494MfPevP",
+    "name" : "XO",
+    "popularity" : 73,
+    "preview_url" : "https://p.scdn.co/mp3-preview/df9b5efc4577e9ef65491b5a3f74f3cf428297d3",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:40xhyfAPDoMtv494MfPevP"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1JSCfr9YFx7SAP8sAYS5vx"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1JSCfr9YFx7SAP8sAYS5vx",
+      "id" : "1JSCfr9YFx7SAP8sAYS5vx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/1f49ad5b4139157dc7ae9422219eddc01858c703",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/489763b7fc7cbf240efccd959aae8be8a27b3af8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/91da53ece7262794afb94a2359e8480a1094f143",
+        "width" : 64
+      } ],
+      "name" : "Crazy In Love (Remix)",
+      "type" : "album",
+      "uri" : "spotify:album:1JSCfr9YFx7SAP8sAYS5vx"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6vWDO969PvNqNYHIOW5v0m",
+      "id" : "6vWDO969PvNqNYHIOW5v0m",
+      "name" : "Beyoncé",
+      "type" : "artist",
+      "uri" : "spotify:artist:6vWDO969PvNqNYHIOW5v0m"
+    } ],
+    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID" ],
+    "disc_number" : 1,
+    "duration_ms" : 226400,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM11410272"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2f4IuijXLxYOeBncS60GUD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2f4IuijXLxYOeBncS60GUD",
+    "id" : "2f4IuijXLxYOeBncS60GUD",
+    "name" : "Crazy In Love - Remix",
+    "popularity" : 72,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ac99e5740a6cfdd06be16fbaefbd29a026965e48",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2f4IuijXLxYOeBncS60GUD"
+  } ]
+}

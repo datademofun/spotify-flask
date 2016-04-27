@@ -1,0 +1,39 @@
+
+{% include 'partials/head.html' %}
+
+
+<section id="woz-content">
+  <div class="container">
+    <h1 class="page-title">Searching for
+      artists with the name of:
+      <em>{{artist_name}}</em>
+    </h1>
+
+
+
+    <table id="data-results" class="table table-condensed table-striped">
+      {% for artist in results %}
+        <tr>
+          <td>
+              {% if artist.images %}
+                <img src="{{artist.images[-1].url}}" alt="{{artist.name}}" class="img-circle">
+              {% endif %}
+          </td>
+          <td>
+            <a href="{{ url_for('artist', id=artist.id) }}">
+              {{ artist.name }}
+            </a>
+          </td>
+          <td class="number">{{ artist.popularity }}</td>
+          <td class="number">{{ artist.followers.total }}</td>
+        </tr>
+      {% endfor %}
+
+    </table>
+
+
+
+  </div>
+</section>
+
+{% include 'partials/foot.html' %}

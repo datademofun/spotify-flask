@@ -1,0 +1,803 @@
+{
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+      },
+      "followers": {
+        "href": null,
+        "total": 434222
+      },
+      "genres": [
+        "pop christmas",
+        "r&b",
+        "urban contemporary"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1Y8cdNmUJH7yBTd9yOvr5i",
+      "id": "1Y8cdNmUJH7yBTd9yOvr5i",
+      "images": [
+        {
+          "height": 806,
+          "url": "https://i.scdn.co/image/0c3d069b90bd5ad7d0ad367fa8af41bda73b7bb3",
+          "width": 1000
+        },
+        {
+          "height": 516,
+          "url": "https://i.scdn.co/image/4278b305775bb2937cd8b86e5c312d28ffd6d66c",
+          "width": 640
+        },
+        {
+          "height": 161,
+          "url": "https://i.scdn.co/image/0b9c7433f423380d5644627bfe330cdef1361f05",
+          "width": 200
+        },
+        {
+          "height": 52,
+          "url": "https://i.scdn.co/image/3cae1979ea735f4651a1dbb2168fcbeea81bf189",
+          "width": 64
+        }
+      ],
+      "name": "Destiny's Child",
+      "popularity": 73,
+      "type": "artist",
+      "uri": "spotify:artist:1Y8cdNmUJH7yBTd9yOvr5i"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+      },
+      "followers": {
+        "href": null,
+        "total": 369254
+      },
+      "genres": [
+        "dance pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3AuMNF8rQAKOzjYppFNAoB",
+      "id": "3AuMNF8rQAKOzjYppFNAoB",
+      "images": [
+        {
+          "height": 500,
+          "url": "https://i.scdn.co/image/4a3dd5ba69bb2a63850c712e065df37d4983f9e3",
+          "width": 500
+        },
+        {
+          "height": 200,
+          "url": "https://i.scdn.co/image/e86b4169c56e47e62d2023558676f7c170afcf51",
+          "width": 200
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/7cf83ad947ba34f612f622ca31f650e4a5f88bf6",
+          "width": 64
+        }
+      ],
+      "name": "Kelly Rowland",
+      "popularity": 70,
+      "type": "artist",
+      "uri": "spotify:artist:3AuMNF8rQAKOzjYppFNAoB"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+      },
+      "followers": {
+        "href": null,
+        "total": 986784
+      },
+      "genres": [
+        "pop christmas",
+        "r&b",
+        "urban contemporary"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3DiDSECUqqY1AuBP8qtaIa",
+      "id": "3DiDSECUqqY1AuBP8qtaIa",
+      "images": [
+        {
+          "height": 1333,
+          "url": "https://i.scdn.co/image/7252f8b4fdaf235cc05bbdb575b2e7a447adbe75",
+          "width": 1000
+        },
+        {
+          "height": 853,
+          "url": "https://i.scdn.co/image/584b6f93f4830594e6dcc81a02a5a46e0d096507",
+          "width": 640
+        },
+        {
+          "height": 267,
+          "url": "https://i.scdn.co/image/5e00c9accaf78a61e47e952b6e7060549ad6f290",
+          "width": 200
+        },
+        {
+          "height": 85,
+          "url": "https://i.scdn.co/image/16c4686cb1951a01299f5f60cd44c7bb7468e523",
+          "width": 64
+        }
+      ],
+      "name": "Alicia Keys",
+      "popularity": 78,
+      "type": "artist",
+      "uri": "spotify:artist:3DiDSECUqqY1AuBP8qtaIa"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+      },
+      "followers": {
+        "href": null,
+        "total": 6668327
+      },
+      "genres": [
+        "dance pop",
+        "pop",
+        "pop christmas"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+      "id": "5pKCCKE2ajJHZ9KAiaK11H",
+      "images": [
+        {
+          "height": 667,
+          "url": "https://i.scdn.co/image/978a4c2eb0e99c222ea55d8640ee444dc4aa8eed",
+          "width": 1000
+        },
+        {
+          "height": 427,
+          "url": "https://i.scdn.co/image/d49052b94c2851543f700f73b8caa67793669a0d",
+          "width": 640
+        },
+        {
+          "height": 133,
+          "url": "https://i.scdn.co/image/dceb3cf4abf28d0ab0075b5daffa3f82e51fa7a3",
+          "width": 200
+        },
+        {
+          "height": 43,
+          "url": "https://i.scdn.co/image/e156c936eeac11002706746672b808f666c4d61a",
+          "width": 64
+        }
+      ],
+      "name": "Rihanna",
+      "popularity": 96,
+      "type": "artist",
+      "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+      },
+      "followers": {
+        "href": null,
+        "total": 550508
+      },
+      "genres": [
+        "hip pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2NdeV5rLm47xAvogXrYhJX",
+      "id": "2NdeV5rLm47xAvogXrYhJX",
+      "images": [
+        {
+          "height": 1000,
+          "url": "https://i.scdn.co/image/35b0d2bdd41aa462282009e11a633a9cb329f3bf",
+          "width": 1000
+        },
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/d11816ae1e4d9faf069765c46d205f57b3fab9dd",
+          "width": 640
+        },
+        {
+          "height": 200,
+          "url": "https://i.scdn.co/image/3800b879ebd0d022baee1cd913274dc45e4b932c",
+          "width": 200
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/3ffecb306727c17a7bfb6e2cde6fbf34228b1b21",
+          "width": 64
+        }
+      ],
+      "name": "Ciara",
+      "popularity": 73,
+      "type": "artist",
+      "uri": "spotify:artist:2NdeV5rLm47xAvogXrYhJX"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1"
+      },
+      "followers": {
+        "href": null,
+        "total": 149180
+      },
+      "genres": [
+        "r&b"
+      ],
+      "href": "https://api.spotify.com/v1/artists/63wjoROpeh5f11Qm93UiJ1",
+      "id": "63wjoROpeh5f11Qm93UiJ1",
+      "images": [
+        {
+          "height": 667,
+          "url": "https://i.scdn.co/image/5e9cdc6aee37962bf50600e359d72227a1a5c459",
+          "width": 1000
+        },
+        {
+          "height": 427,
+          "url": "https://i.scdn.co/image/1a218329083c5754f98367d67825a673a4bae510",
+          "width": 640
+        },
+        {
+          "height": 133,
+          "url": "https://i.scdn.co/image/6affc0ddc949a06f788a34f3ec3cd64bd5772a82",
+          "width": 200
+        },
+        {
+          "height": 43,
+          "url": "https://i.scdn.co/image/85d41f6a6f2ff90fde30ea733b27ca8d43983910",
+          "width": 64
+        }
+      ],
+      "name": "Keri Hilson",
+      "popularity": 66,
+      "type": "artist",
+      "uri": "spotify:artist:63wjoROpeh5f11Qm93UiJ1"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+      },
+      "followers": {
+        "href": null,
+        "total": 2012805
+      },
+      "genres": [
+        "dance pop",
+        "pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/31TPClRtHm23RisEBtV3X7",
+      "id": "31TPClRtHm23RisEBtV3X7",
+      "images": [
+        {
+          "height": 456,
+          "url": "https://i.scdn.co/image/f65bde6029ce780ee72e777a24816c3a04f515ee",
+          "width": 496
+        },
+        {
+          "height": 184,
+          "url": "https://i.scdn.co/image/5634db20af3db104f84d1503c74511311d7a7730",
+          "width": 200
+        },
+        {
+          "height": 59,
+          "url": "https://i.scdn.co/image/d71f0502c27eec28393ad83efcac8ac10850c6dd",
+          "width": 64
+        }
+      ],
+      "name": "Justin Timberlake",
+      "popularity": 82,
+      "type": "artist",
+      "uri": "spotify:artist:31TPClRtHm23RisEBtV3X7"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+      },
+      "followers": {
+        "href": null,
+        "total": 840549
+      },
+      "genres": [
+        "dance pop",
+        "pop christmas",
+        "urban contemporary"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4iHNK0tOyZPYnBU7nGAgpQ",
+      "id": "4iHNK0tOyZPYnBU7nGAgpQ",
+      "images": [
+        {
+          "height": 1000,
+          "url": "https://i.scdn.co/image/20e78a9ef314b580776bff93e8e073f74c79b969",
+          "width": 1000
+        },
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/e5e75d3f721a31445755f639c9317f2a46ee93a7",
+          "width": 640
+        },
+        {
+          "height": 200,
+          "url": "https://i.scdn.co/image/6f0a4da1b1e4addd84be4c177a63fcbb721d6453",
+          "width": 200
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/0e96bfe9b4eed6b1c3b1026e9a0461bfb0fff8dc",
+          "width": 64
+        }
+      ],
+      "name": "Mariah Carey",
+      "popularity": 76,
+      "type": "artist",
+      "uri": "spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+      },
+      "followers": {
+        "href": null,
+        "total": 897787
+      },
+      "genres": [
+        "dance pop",
+        "pop christmas"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1l7ZsJRRS8wlW3WfJfPfNS",
+      "id": "1l7ZsJRRS8wlW3WfJfPfNS",
+      "images": [
+        {
+          "height": 1500,
+          "url": "https://i.scdn.co/image/ed0805cea8bd91b828af703fc732f1ef76e80f24",
+          "width": 1000
+        },
+        {
+          "height": 960,
+          "url": "https://i.scdn.co/image/b9eb939455085401121dc389087eea44b1e6f4d5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/7a3ad713f029e7789ab4d2959a1500b5f0e4fdb5",
+          "width": 200
+        },
+        {
+          "height": 96,
+          "url": "https://i.scdn.co/image/2e741e5333c05ea7aed2c05c23c0f614719c74ca",
+          "width": 64
+        }
+      ],
+      "name": "Christina Aguilera",
+      "popularity": 79,
+      "type": "artist",
+      "uri": "spotify:artist:1l7ZsJRRS8wlW3WfJfPfNS"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH"
+      },
+      "followers": {
+        "href": null,
+        "total": 87573
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/27FGXRNruFoOdf1vP8dqcH",
+      "id": "27FGXRNruFoOdf1vP8dqcH",
+      "images": [
+        {
+          "height": 1268,
+          "url": "https://i.scdn.co/image/1c926d8163f2399d7f87c87e3a917ceaed958e43",
+          "width": 1000
+        },
+        {
+          "height": 811,
+          "url": "https://i.scdn.co/image/c23a4ced3c1b82c1d1b53657fe77f57996986cb2",
+          "width": 640
+        },
+        {
+          "height": 254,
+          "url": "https://i.scdn.co/image/8cfbf3f9bf449526f56004a06e52a888789f4af7",
+          "width": 200
+        },
+        {
+          "height": 81,
+          "url": "https://i.scdn.co/image/95d6a1a5351e2bb2a5672a4250a5c14e69963ca0",
+          "width": 64
+        }
+      ],
+      "name": "Cassie",
+      "popularity": 62,
+      "type": "artist",
+      "uri": "spotify:artist:27FGXRNruFoOdf1vP8dqcH"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+      },
+      "followers": {
+        "href": null,
+        "total": 1131576
+      },
+      "genres": [
+        "dance pop",
+        "pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+      "id": "2DlGxzQSjYe5N6G9nkYghR",
+      "images": [
+        {
+          "height": 794,
+          "url": "https://i.scdn.co/image/b89746cde0b32ca327222752233cc2c9e1bd4e74",
+          "width": 1000
+        },
+        {
+          "height": 508,
+          "url": "https://i.scdn.co/image/6ad54e097cdca4344f019e7785bf8ad5df313677",
+          "width": 640
+        },
+        {
+          "height": 159,
+          "url": "https://i.scdn.co/image/91cabed2b7659a117c741b0d03baaab831e016fc",
+          "width": 200
+        },
+        {
+          "height": 51,
+          "url": "https://i.scdn.co/image/6f3a715ed99c30b1921ec3933700ef48cdd47103",
+          "width": 64
+        }
+      ],
+      "name": "Jennifer Lopez",
+      "popularity": 81,
+      "type": "artist",
+      "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+      },
+      "followers": {
+        "href": null,
+        "total": 125414
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/35GL8Cu2GKTcHzKGi75xl5",
+      "id": "35GL8Cu2GKTcHzKGi75xl5",
+      "images": [
+        {
+          "height": 927,
+          "url": "https://i.scdn.co/image/57d2be610a986655fb0f7f312480f2534ae2eea5",
+          "width": 700
+        },
+        {
+          "height": 848,
+          "url": "https://i.scdn.co/image/2bdf30afd34464a3981a5b3d04996fcea9aaee10",
+          "width": 640
+        },
+        {
+          "height": 265,
+          "url": "https://i.scdn.co/image/b3fad50fb68cfd80ba3889f0b951d54df85cab5f",
+          "width": 200
+        },
+        {
+          "height": 85,
+          "url": "https://i.scdn.co/image/f3efa98f36348a331c69b8eb632d8e9d4894e034",
+          "width": 64
+        }
+      ],
+      "name": "Jennifer Hudson",
+      "popularity": 65,
+      "type": "artist",
+      "uri": "spotify:artist:35GL8Cu2GKTcHzKGi75xl5"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+      },
+      "followers": {
+        "href": null,
+        "total": 3142808
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+      "id": "7bXgB6jMjp9ATFy66eO08Z",
+      "images": [
+        {
+          "height": 1334,
+          "url": "https://i.scdn.co/image/e5f738a6b6138aa8410899d1d2774395064e11a2",
+          "width": 1000
+        },
+        {
+          "height": 854,
+          "url": "https://i.scdn.co/image/cb5d2e66d2f6db010c81fb5e6236a109d39e8b86",
+          "width": 640
+        },
+        {
+          "height": 267,
+          "url": "https://i.scdn.co/image/b1757fc8709f019009e6af932543854a3e20498e",
+          "width": 200
+        },
+        {
+          "height": 85,
+          "url": "https://i.scdn.co/image/350c99d55cb50beb0526f88296703e966362d67b",
+          "width": 64
+        }
+      ],
+      "name": "Chris Brown",
+      "popularity": 91,
+      "type": "artist",
+      "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+      },
+      "followers": {
+        "href": null,
+        "total": 271893
+      },
+      "genres": [
+        "dance pop",
+        "pop",
+        "pop christmas"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6wPhSqRtPu1UhRCDX5yaDJ",
+      "id": "6wPhSqRtPu1UhRCDX5yaDJ",
+      "images": [
+        {
+          "height": 600,
+          "url": "https://i.scdn.co/image/1c5de0c092587cdc1df31ae6bfda490f2cdab223",
+          "width": 900
+        },
+        {
+          "height": 427,
+          "url": "https://i.scdn.co/image/cff27772695e8592bc0dfb1b010cd36f7ea2da94",
+          "width": 640
+        },
+        {
+          "height": 133,
+          "url": "https://i.scdn.co/image/0aecad49afb3866ceb48d4f037eb045f750f8a15",
+          "width": 200
+        },
+        {
+          "height": 43,
+          "url": "https://i.scdn.co/image/de6d07dcec519a204f2b39597cd112f41095f6f5",
+          "width": 64
+        }
+      ],
+      "name": "The Pussycat Dolls",
+      "popularity": 69,
+      "type": "artist",
+      "uri": "spotify:artist:6wPhSqRtPu1UhRCDX5yaDJ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+      },
+      "followers": {
+        "href": null,
+        "total": 315069
+      },
+      "genres": [
+        "dance pop",
+        "pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3r17AfJCCUqC9Lf0OAc73G",
+      "id": "3r17AfJCCUqC9Lf0OAc73G",
+      "images": [
+        {
+          "height": 686,
+          "url": "https://i.scdn.co/image/d6a466552da319a8bf225ab63231629a04067b52",
+          "width": 1000
+        },
+        {
+          "height": 439,
+          "url": "https://i.scdn.co/image/43270ca79d7a522934b2a2e309adf87544777731",
+          "width": 640
+        },
+        {
+          "height": 137,
+          "url": "https://i.scdn.co/image/5f1f0909b8b471c87e258975ddd6bba519967fd3",
+          "width": 200
+        },
+        {
+          "height": 44,
+          "url": "https://i.scdn.co/image/40cecf0b68642fe79349b829f6efa2b6c13dd40f",
+          "width": 64
+        }
+      ],
+      "name": "Fergie",
+      "popularity": 70,
+      "type": "artist",
+      "uri": "spotify:artist:3r17AfJCCUqC9Lf0OAc73G"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+      },
+      "followers": {
+        "href": null,
+        "total": 255965
+      },
+      "genres": [
+        "hip pop",
+        "urban contemporary"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0TImkz4nPqjegtVSMZnMRq",
+      "id": "0TImkz4nPqjegtVSMZnMRq",
+      "images": [
+        {
+          "height": 810,
+          "url": "https://i.scdn.co/image/85cdfaff6d7becc77104651ceaabea93e15c9e14",
+          "width": 1000
+        },
+        {
+          "height": 518,
+          "url": "https://i.scdn.co/image/eaea69647613a8492f43eeaf01ed643e39cc8bfa",
+          "width": 640
+        },
+        {
+          "height": 162,
+          "url": "https://i.scdn.co/image/b180c8e96d5b791ac1a20b285df8874ed6c89a50",
+          "width": 200
+        },
+        {
+          "height": 52,
+          "url": "https://i.scdn.co/image/73253daf0d230d92707efb4898e5872fbc5a6aeb",
+          "width": 64
+        }
+      ],
+      "name": "TLC",
+      "popularity": 72,
+      "type": "artist",
+      "uri": "spotify:artist:0TImkz4nPqjegtVSMZnMRq"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+      },
+      "followers": {
+        "href": null,
+        "total": 688476
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/6XpaIBNiVzIetEPCWDvAFP",
+      "id": "6XpaIBNiVzIetEPCWDvAFP",
+      "images": [
+        {
+          "height": 992,
+          "url": "https://i.scdn.co/image/a7a51d32aa7c45838354ab8d5f89487b28e1e4f2",
+          "width": 1000
+        },
+        {
+          "height": 635,
+          "url": "https://i.scdn.co/image/48b399a7f95f351310b5751b8a3c8fabf30d0a63",
+          "width": 640
+        },
+        {
+          "height": 198,
+          "url": "https://i.scdn.co/image/e037aed94c3db80fec57245d5e8315d475bdb3c0",
+          "width": 200
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ae5b0a807b7011d325639ba5572d345eef1d06bc",
+          "width": 64
+        }
+      ],
+      "name": "Whitney Houston",
+      "popularity": 74,
+      "type": "artist",
+      "uri": "spotify:artist:6XpaIBNiVzIetEPCWDvAFP"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+      },
+      "followers": {
+        "href": null,
+        "total": 150296
+      },
+      "genres": [
+        "hip pop",
+        "r&b",
+        "urban contemporary"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5rkVyNGXEgeUqKkB5ccK83",
+      "id": "5rkVyNGXEgeUqKkB5ccK83",
+      "images": [
+        {
+          "height": 516,
+          "url": "https://i.scdn.co/image/bfda2b2f6f65c842f87f44a07f64667ac86f45f6",
+          "width": 648
+        },
+        {
+          "height": 510,
+          "url": "https://i.scdn.co/image/0f71c2d0a5a4f89bb91c8077e517bc1011ca15f2",
+          "width": 640
+        },
+        {
+          "height": 159,
+          "url": "https://i.scdn.co/image/66626ef171f5b559c4f8755e3cc4f616d43715a9",
+          "width": 200
+        },
+        {
+          "height": 51,
+          "url": "https://i.scdn.co/image/7d27cb20ad7693c418b0da65110caa13ceb5d877",
+          "width": 64
+        }
+      ],
+      "name": "Ashanti",
+      "popularity": 69,
+      "type": "artist",
+      "uri": "spotify:artist:5rkVyNGXEgeUqKkB5ccK83"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+      },
+      "followers": {
+        "href": null,
+        "total": 93677
+      },
+      "genres": [
+        "hip pop",
+        "indie r&b",
+        "r&b",
+        "urban contemporary"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0IF46mUS8NXjgHabxk2MCM",
+      "id": "0IF46mUS8NXjgHabxk2MCM",
+      "images": [
+        {
+          "height": 1280,
+          "url": "https://i.scdn.co/image/2970ad09ae431fb613d7c7f6da6e35e55e5c5147",
+          "width": 853
+        },
+        {
+          "height": 960,
+          "url": "https://i.scdn.co/image/e7baf0f5a878254783283e28ee72ffd6fae188d6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/b0d77579765069f9534728b31f3d5a9be4de4e95",
+          "width": 200
+        },
+        {
+          "height": 96,
+          "url": "https://i.scdn.co/image/4ac678afc607c30f3976b796d7280e4a85722e81",
+          "width": 64
+        }
+      ],
+      "name": "Kelis",
+      "popularity": 65,
+      "type": "artist",
+      "uri": "spotify:artist:0IF46mUS8NXjgHabxk2MCM"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+      },
+      "followers": {
+        "href": null,
+        "total": 384197
+      },
+      "genres": [
+        "pop christmas",
+        "r&b",
+        "urban contemporary"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1XkoF8ryArs86LZvFOkbyr",
+      "id": "1XkoF8ryArs86LZvFOkbyr",
+      "images": [
+        {
+          "height": 325,
+          "url": "https://i.scdn.co/image/88cdd8a61aa86df2924a4e2e94dd500dba070b8c",
+          "width": 216
+        },
+        {
+          "height": 301,
+          "url": "https://i.scdn.co/image/13156a87f06495a391752785420964fb116d20e0",
+          "width": 200
+        },
+        {
+          "height": 96,
+          "url": "https://i.scdn.co/image/306b1a4a82b9a8b4736b273f024d1e0882f56e12",
+          "width": 64
+        }
+      ],
+      "name": "Mary J. Blige",
+      "popularity": 72,
+      "type": "artist",
+      "uri": "spotify:artist:1XkoF8ryArs86LZvFOkbyr"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+
+{% include 'partials/head.html' %}
+
+
+<section id="woz-content">
+  <div class="container">
+    <section class="sec">
+        <h1 class="page-title">{{artist.name}}</h1>
+          <a href="{{artist.external_urls.spotify}}">
+                  {{artist.name}} on Spotify
+                </a>
+        <div class="row">
+          <div class="col-sm-4">
+
+
+            <section class="sec">
+                <img src="{{image_url}}" alt="{{image_url}}" class="img-fluid img-square">
+
+            </section>
+
+            <section class="sec">
+                <h4>Related artists</h4>
+
+                <div class="row">
+                    {% for a in related_artists %}
+                      <div class="col-xs-4">
+                        <a href="{{url_for('artist',id=a.id) }}">
+                          <img src="{{a.images[-1].url}}" alt="" class="bobby img-thumbnail img-circle">
+                        </a>
+                      </div>
+                    {% endfor %}
+                </div>
+
+            </section>
+
+
+
+
+
+          </div>
+
+
+
+
+
+          <div class="col-sm-8">
+              {% if tracks %}
+                  <section class="sec tracks">
+                    <h2>Top Tracks</h2>
+
+                    {% include 'partials/tracks-list.html' %}
+                  </section>
+              {% endif %}
+            </div>
+        </div>
+    </section>
+  </div>
+</section>
+{% include 'partials/foot.html' %}

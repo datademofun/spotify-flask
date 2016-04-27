@@ -1,0 +1,77 @@
+body{
+
+}
+
+
+.sec{
+  margin-bottom: 2.4em;
+}
+
+#woz-content{
+  min-height: 300px;
+}
+
+
+header#woz-header{
+  margin-bottom: 2.0em;
+  text-align:center;
+  padding: 2.5em 0;
+  background: #339944;
+}
+
+header#woz-header h1{
+  font-size: 2.7em;
+  font-weight: bold;
+  color: white;
+}
+
+.site-title a{
+  text-decoration: none;
+  color: white;
+}
+
+
+
+footer#woz-footer{
+  margin-top: 2.0em;
+  background: #116622;
+  padding: 1.5em 0;
+  min-height: 300px;
+  color: white;
+}
+
+
+td.number{
+  font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  text-align: right;
+}
+
+
+.full-url a{
+  font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-weight: bold;
+  font-size: 0.9em;
+}
+
+h1.page-title{
+  font-size: 3.0em;
+  font-weight: bold;
+  color: black;
+}
+
+
+
+.track-info .track-name{
+  font-weight: bold;
+}
+
+.track-info .album-name{
+  font-size: 0.9rem;
+  font-style: italic;
+}
+
+
+img.bobby.img-thumbnail.img-circle{
+  width: 90px;
+  height: 90px;
+}

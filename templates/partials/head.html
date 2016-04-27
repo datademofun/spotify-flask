@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Spotify Browser</title>
+    <link rel="stylesheet" href="{{url_for('static', filename='css/bootstrap.css')}}">
+    <link rel="stylesheet" href="{{url_for('static', filename='css/mystyles.css')}}">
+
+    <script src="{{url_for('static', filename='js/audiojs/audio.min.js')}}"></script>
+    <script>
+      audiojs.events.ready(function() {
+        var as = audiojs.createAll();
+      });
+    </script>
+
+<!--
+    <script src="{{url_for('static', filename='js/jquery.js')}}"></script>
+    <script src="{{url_for('static', filename='js/mediaelement-and-player.min.js')}}"></script>
+ -->
+</head>
+<body>
+
+{% include 'partials/header.html' %}
