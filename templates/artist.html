@@ -23,11 +23,13 @@
 
                 <div class="row">
                     {% for a in related_artists %}
-                      <div class="col-xs-4">
-                        <a href="{{url_for('artist',id=a.id) }}">
-                          <img src="{{a.images[-1].url}}" alt="" class="bobby img-thumbnail img-circle">
-                        </a>
-                      </div>
+                        {% if a.images %}
+                          <div class="col-xs-4">
+                            <a href="{{url_for('artist',id=a.id) }}">
+                              <img src="{{a.images[-1].url}}" alt="" class="bobby img-thumbnail img-circle">
+                            </a>
+                          </div>
+                        {% endif %}
                     {% endfor %}
                 </div>
 
@@ -46,13 +48,14 @@
           <div class="col-sm-8">
               {% if tracks %}
                   <section class="sec tracks">
-                    <h2>Top Tracks</h2>
-
+                    <h3>Top Tracks</h3>
                     {% include 'partials/tracks-list.html' %}
                   </section>
               {% endif %}
             </div>
         </div>
+
+
     </section>
   </div>
 </section>

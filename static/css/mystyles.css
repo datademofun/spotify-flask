@@ -71,7 +71,13 @@ h1.page-title{
 }
 
 
-img.bobby.img-thumbnail.img-circle{
+img.bobby{
   width: 90px;
   height: 90px;
 }
+
+
+table.table{
+  vertical-align: middle;
+}
+
