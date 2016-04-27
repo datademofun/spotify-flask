@@ -4,6 +4,22 @@
 
 Another example of mixing data into our own Flask app. Using [Spotify's excellent API](https://developer.spotify.com/web-api/endpoint-reference/), we can fake a pretty complete app by just calling their API for data behind the scenes.
 
+
+## References
+
+
+Note: This app was written in Python 3.x and is meant for [Anaconda users to jump into without too much fuss](https://docs.continuum.io/anaconda/install).
+
+The data (see samples in [samples/spotify](samples/spotify)) comes [directly from Spotify](https://developer.spotify.com/web-api/endpoint-reference/) and only uses the public, unauthenticated calls. At some point I'd love to pair it with the [Echo's Nest API](http://developer.echonest.com/docs/v4) (which Spotify owns).
+
+The CSS styling comes [from Bootstrap 4](http://v4-alpha.getbootstrap.com/). The neat little HTML5 audio player comes [from the audio.js project](http://kolber.github.io/audiojs/).
+
+The app as it stands is pretty basic; [if you can follow Flask's excellent documentation](http://flask.pocoo.org/docs/0.10/quickstart/), there shouldn't be too many surprises here.
+
+
+## Clone and run the app
+
+
 To try it out, you can clone this repo into some temp folder:
 
 ~~~sh
